@@ -1,1 +1,1 @@
-JavaScript version 1
+JavaScript version 2
