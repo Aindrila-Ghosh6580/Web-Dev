@@ -1,1 +1,1 @@
-Java version 1
+Java version 2
